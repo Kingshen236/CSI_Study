@@ -1,4 +1,4 @@
-# What is this
+# Purpose
 Hello, this is an in-depth collection of all the lessons learned in the Chico 2025 CS Summer program
 # Sections 
 Javascript 
