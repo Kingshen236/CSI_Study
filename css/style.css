@@ -1,0 +1,14 @@
+body{
+    flex: content;
+    flex-direction: row;
+    position: relative;
+    left: auto;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    background-image: url("https://t4.ftcdn.net/jpg/06/06/87/63/360_F_606876358_NU2hCq3RP7xDpXG6PWnAMGGAun0fB5tW.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#form{
+    width: 100px;
+}
